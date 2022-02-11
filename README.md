@@ -6,3 +6,5 @@ Check out cardsJS [here](https://github.com/richardschneider/cardsJS).
 
 The playing cards were created by Chris Aguilar. The cards are vectorized SVG files.
 Check out the playing cards [here](https://sourceforge.net/projects/vector-cards/).
+
+Check out the website [here](https://ryanbhuynh.github.io/card-demo)
